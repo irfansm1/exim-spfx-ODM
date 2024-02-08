@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "onprem19",
+    "version": "1.10.0",
+    "libraryName": "exim-spfx-odm",
+    "libraryId": "621dc04d-3b07-4608-9369-bb6059420515",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

@@ -1,0 +1,35 @@
+export interface IEmployee {
+    Title: string;
+    ID: string;
+    EmployeeTitle: string;
+    FirstName: string;
+    MiddleName: string;
+    LastName: string;
+    UserName: string;
+    Gender: string;
+    OfficeLocation: string;
+    CurrentOfficeLocation: string;
+    SubGroup: string;
+    Unit: string;
+    EmployeeType: string;
+    Scale: string;
+    Grade: string;
+    Designation: string;
+    Payscale: string;
+    ReportingManager: string;
+    AlternateReportingManager: string;
+    Active: boolean;
+    Phone_x0020_No: string;
+    MobileNo_x002e_: string;
+    CompanyEmail: string;
+    AlternateEmail: string;
+    LeaveLevel1: string;
+    LeaveLevel2: string;
+    LeaveLevel2Id: string;
+    Role: string;
+    BranchName: string;
+    HHApproverName: string;
+    LTCDate: Date;
+    TempDOB: Date;
+    EmpType: string;
+}

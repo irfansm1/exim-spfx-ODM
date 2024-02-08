@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "exim-spfx-odm-client-side-solution",
+    "id": "621dc04d-3b07-4608-9369-bb6059420515",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/exim-spfx-odm.sppkg"
+  }
+}
